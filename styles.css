@@ -1,0 +1,40 @@
+
+  body {
+    background-color: powderblue;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 4%;
+  }
+
+  h1 {
+    color: #204051;
+  }
+
+  h2 {
+    color: #204051;
+  }
+
+  h3 {
+    color: #204051;
+  }
+
+  h4 {
+    color: #204051;
+  }
+
+  h5 {
+    color: #204051;
+  }
+
+  h6 {
+    color: #204051;
+  }
+
+  th {
+    color: #204051;
+  }
